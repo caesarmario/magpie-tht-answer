@@ -1,2 +1,2 @@
-## Magpie Take Home Test Answer
-### by Mario Caesar
+## Magpie Take Home Test Answer - Data Engineer
+### by Mario Caesar // caesarmario87@gmail.com
